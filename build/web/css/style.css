@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: medium;
+    -webkit-font-smoothing: antialiased;
+    background: none;
+}
+.navF{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border: 1px;
+}
+
+.b {
+    margin-left: 160px;
+    color: white;
+    font-size: 18px;
+    border: hidden;
+}
+.center{
+    text-align: center;
+}
+.test{
+    display: inline-block;
+
+}
+.test a{
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.test a:hover {
+  background-color: #ddd;
+  border-radius: 5px;
+}
